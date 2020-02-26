@@ -1,6 +1,5 @@
 # spring-boot-example
-This repository contains a simple Spring Boot/Spring MVC example to help new Spring Boot users get started
 
-This repository consists of a project built with the Spring Tool Suite (STS), which is an open source Integrated Development
-Environment (IDE) for developing Spring projects.
+실행방법1 - java command (뒤 server.port는 알맞게 변경 가능)(현재 default port : 9090)
+java -jar test-0.war --server.port=9090 
 
